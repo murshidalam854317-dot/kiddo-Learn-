@@ -1,0 +1,1 @@
+KiddoLearn iPhone PWA MVP. Open index.html through a web host, then on iPhone Safari use Share > Add to Home Screen. This is a prototype, not an App Store IPA.
